@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>Espresso Soda</string>
+    <string>madebyphunky</string>
     <key>settings</key>
     <array>
         <dict>
@@ -18,7 +18,7 @@
                 <key>invisibles</key>
                 <string>#E0E0E0</string>
                 <key>lineHighlight</key>
-                <string>#A5A5A526</string>
+                <string>#A5A5A515</string>
                 <key>selection</key>
                 <string>#C2E8FF</string>
                 <key>selectionBorder</key>
@@ -679,7 +679,5 @@
             </dict>
         </dict>
     </array>
-    <key>uuid</key>
-    <string>BF4E1964-0DB9-4E88-8142-E8F52D7EDEEC</string>
 </dict>
 </plist>
