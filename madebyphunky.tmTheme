@@ -67,11 +67,11 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FFFDF7</string>
+                <string>#ACACAD3A</string>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#BC670F</string>
+                <string>#555</string>
             </dict>
         </dict>
         <dict>
