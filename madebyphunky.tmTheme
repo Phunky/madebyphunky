@@ -10,7 +10,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#F7F7F5</string>
+                <string>#F1F1F2</string>
                 <key>caret</key>
                 <string>#000000</string>
                 <key>foreground</key>
@@ -429,13 +429,26 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>HTML: Attribute Values</string>
+            <string test="awdawd">HTML: Attribute Values</string>
             <key>scope</key>
             <string>meta.tag string.quoted, meta.tag string.quoted constant.character.entity</string>
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#FFFFFF</string>
+                <string>#FFFFFFA8</string>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#D44950</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Embedded begin (PHP)</string>
+            <key>scope</key>
+            <string>punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php</string>
+            <key>settings</key>
+            <dict>
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
