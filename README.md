@@ -3,4 +3,4 @@ madebyphunky.tmTheme
 
 SublimeText 2 Theme
 
-![Example](http://d3j5vwomefv46c.cloudfront.net/photos/full/662994417.png?key=506657&Expires=1348736479&Key-Pair-Id=APKAIYVGSUJFNRFZBBTA&Signature=ygIKahPQ6pL6OSHQ9wCh8dVNeVRAv~Extyn04UlsYBrFOKwHoly-MUZTWH~dCtCayR0BMAdXqB0c~7il0S14EfGAGgumyNcallLe0NI5QVngZ-vnHnzmZviSAjkSd89zBQBSd8OPpKyTU4WoSlHysFfyexHkPBqvBET0RK5T9n0_)
+![Example](https://photos-3.dropbox.com/t/0/AACyma6FDvfSTxAhYiAwbkWJbjVFsOzLYxuFCptrnVeSWw/12/272469/png/32x32/3/_/1/2/Screen%20Shot%202013-04-21%20at%2012.55.45.png/Wsaljol7GphPM7iJUgAupBqSlhPnGVTrofX4Q2Tmtvs?size=1280x960)
